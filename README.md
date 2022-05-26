@@ -24,10 +24,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 
 ```diff
--  🔭 I’m currently working on several projects.
+#  🔭 I’m currently working on several projects.
 + text in green
 ! text in orange
-# text in gray
+# 📫 How to reach me:
+            - imgayoun0@gmail.com
 @@ text in purple (and bold)@@
 ``` 
 <br>
