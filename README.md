@@ -22,3 +22,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <span style = 'background-color: Labender ; color:black'>imgayoun0@gmail.com
 - 😄 Pronouns: 🙋‍♀️🙋‍♀️🙋‍♀️
 - ⚡ Fun fact: 
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+``` 
+<br>
