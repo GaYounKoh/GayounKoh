@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 
 ```diff
-- text in red
+-  🔭 I’m currently working on several projects.
 + text in green
 ! text in orange
 # text in gray
