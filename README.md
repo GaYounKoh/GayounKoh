@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 + text in green
 ! text in orange
 # 📫 How to reach me:
-            - imgayoun0@gmail.com
+-             imgayoun0@gmail.com
 @@ text in purple (and bold)@@
 ``` 
 <br>
