@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 #  🔭 I’m currently working on several projects.
 
 # 🌱 I’m currently learning
-+                              Data Science
++                                Data Science
 
 # 👯 I’m currently doing
-+                              stock project
++                                stock project
 
 # 🤔 I’m looking for help with
 +                                styling my github blog
