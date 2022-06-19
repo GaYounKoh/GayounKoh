@@ -43,4 +43,4 @@ Here are some ideas to get you started:
 # 😄 Pronouns: 🙋‍♀️🙋‍♀️🙋‍♀️
 ``` 
 <br>
-[![Update gist](https://github.com/GaYounKoh/productive-box/actions/workflows/schedule.yml/badge.svg?branch=master&event=check_run)](https://github.com/GaYounKoh/productive-box/actions/workflows/schedule.yml)
+[![Update gist](https://github.com/GaYounKoh/productive-box/actions/workflows/schedule.yml/badge.svg?branch=master&event=check_run)](https://github.com/GaYounKoh/productive-box/actions/workflows/schedule.yml)]
