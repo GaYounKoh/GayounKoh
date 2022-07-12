@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 +                                Data Science
 
 # 👯 I’m currently doing
-+                                stock project
++                                [Mimic tutorial for USW DSML interns🤗](https://gayounkoh.notion.site/MIMIC-Tutorial-af0aff5a46d1460baa0f85f961d98bd2)
 
 # 🤔 I’m looking for help with
 +                                styling my github blog
