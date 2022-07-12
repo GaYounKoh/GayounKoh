@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ``` 
 <br>
 
-[Mimic tutorial for USW DSML interns](https://gayounkoh.notion.site/MIMIC-Tutorial-af0aff5a46d1460baa0f85f961d98bd2)
+[Mimic tutorial for USW DSML interns🤗🤗🤗](https://gayounkoh.notion.site/MIMIC-Tutorial-af0aff5a46d1460baa0f85f961d98bd2)
 <br>
 
 ![Update gist](https://github.com/GaYounKoh/productive-box/actions/workflows/schedule.yml/badge.svg?branch=master&event=check_run)](https://github.com/GaYounKoh/productive-box/actions/workflows/schedule.yml)
