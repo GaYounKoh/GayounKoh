@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 +                                Data Science
 
 # 👯 I’m currently doing
-+                                [Mimic tutorial for USW DSML interns🤗](https://gayounkoh.notion.site/MIMIC-Tutorial-af0aff5a46d1460baa0f85f961d98bd2)
++                                Detection of Mortality Medical Markers for ICU Pneumonia Patients by Time-Series Feature Importance of LSTM Model
 
 # 🤔 I’m looking for help with
 +                                styling my github blog
@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 
 # 😄 Pronouns: 🙋‍♀️🙋‍♀️🙋‍♀️
 ``` 
+<br>
+
+[Mimic tutorial for USW DSML interns](https://gayounkoh.notion.site/MIMIC-Tutorial-af0aff5a46d1460baa0f85f961d98bd2)
 <br>
 
 ![Update gist](https://github.com/GaYounKoh/productive-box/actions/workflows/schedule.yml/badge.svg?branch=master&event=check_run)](https://github.com/GaYounKoh/productive-box/actions/workflows/schedule.yml)
