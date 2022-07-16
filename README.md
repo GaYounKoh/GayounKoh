@@ -55,7 +55,9 @@ Here are some ideas to get you started:
 [<img alt="LinkedIn" src ="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/gayoun-koh-a10435192/) <br>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imgayoun0@gmail.com)](mailto:imgayoun0@gmail.com) <br>
 
+<div align='center'>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGaYounKoh&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=click%21&edge_flat=false)](github.com/GayounKoh) <br>
+</div>
 
-                                                                        [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGaYounKoh&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=click%21&edge_flat=false)](github.com/GayounKoh) <br>
 <!-- https://hits.seeyoufarm.com -->
 <!-- [뱃지 생성 참고](https://2dowon.netlify.app/etc/github-badge/) -->
