@@ -55,6 +55,6 @@ Here are some ideas to get you started:
 
 [<img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>](https://gayounkoh.notion.site/MIMIC-Tutorial-af0aff5a46d1460baa0f85f961d98bd2)
 [<img alt="LinkedIn" src ="https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white"/>](https://www.linkedin.com/in/gayoun-koh-a10435192/)
-
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imgayoun0@gmail.com)](mailto:imgayoun0@gmail.com)
 
 <!-- [뱃지 생성 참고](https://2dowon.netlify.app/etc/github-badge/) -->
