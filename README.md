@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGaYounKoh&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=click%21&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[<img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>]
-<img alt="Python" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Python&logoColor=#000000"/>
-(https://gayounkoh.notion.site/MIMIC-Tutorial-af0aff5a46d1460baa0f85f961d98bd2)
+<!-- [<img alt="Python" src ="https://img.shields.io/badge/기술명-원하는색상코드.svg?&style=for-the-badge&logo=로고명&logoColor=로고색상"/>] -->
+
+<img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<!-- (https://gayounkoh.notion.site/MIMIC-Tutorial-af0aff5a46d1460baa0f85f961d98bd2) -->
