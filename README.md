@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:imgayoun0@gmail.com)](mailto:imgayoun0@gmail.com) <br>
 
 <div align='center'>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGaYounKoh&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=click%21&edge_flat=false)](github.com/GayounKoh) <br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGaYounKoh&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=click%21&edge_flat=false)](https://hits.seeyoufarm.com) <br>
 </div>
 
-<!-- https://hits.seeyoufarm.com -->
+<!-- github.com/GayounKoh -->
 <!-- [뱃지 생성 참고](https://2dowon.netlify.app/etc/github-badge/) -->
