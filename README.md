@@ -61,5 +61,12 @@ Here are some ideas to get you started:
   
 </div>
 
+### for me
+```python
+from IPython.core.interactiveshell import InteractiveShell
+InteractiveShell.ast_node_interactivity = "all"
+```
+
+
 <!-- https://hits.seeyoufarm.com -->
 <!-- [뱃지 생성 참고](https://2dowon.netlify.app/etc/github-badge/) -->
