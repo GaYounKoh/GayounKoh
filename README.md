@@ -66,7 +66,16 @@ Here are some ideas to get you started:
 from IPython.core.interactiveshell import InteractiveShell
 InteractiveShell.ast_node_interactivity = "all"
 ```
+<br>
+```
+# ~~실행시 등장하는 URL을 클릭하여 허용해주면 인증KEY가 나타난다. 복사하여 URL아래 빈칸에 붙여넣으면 마운트에 성공하게된다.~~
+# 그냥 로그인만 하면 됨.
+from google.colab import drive
+drive.mount('./MyDrive')
 
+# 마운트된 내 드라이브를 확인해보자
+!ls
+```
 
 <!-- https://hits.seeyoufarm.com -->
 <!-- [뱃지 생성 참고](https://2dowon.netlify.app/etc/github-badge/) -->
