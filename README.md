@@ -32,7 +32,8 @@ Here are some ideas to get you started:
 +                                Data Science
 
 # 👯 I’m currently doing
-+                                Detection of Mortality Medical Markers for ICU Pneumonia Patients by Time-Series Feature Importance of LSTM Model
++                                Time-Series Mortality Marker Identification Based on Data Simulation on LSTM Model in Application to Pneumonia Patients in Intensive Care Unit
+<!--~~Detection of Mortality Medical Markers for ICU Pneumonia Patients by Time-Series Feature Importance of LSTM Model~~-->
 
 # 🤔 I’m looking for help with
 +                                styling my github blog
