@@ -33,7 +33,6 @@ Here are some ideas to get you started:
 
 # 👯 I’m currently doing
 +                                Time-Series Mortality Marker Identification Based on Data Simulation on LSTM Model in Application to Pneumonia Patients in Intensive Care Unit
-<!--~~Detection of Mortality Medical Markers for ICU Pneumonia Patients by Time-Series Feature Importance of LSTM Model~~-->
 
 # 🤔 I’m looking for help with
 +                                styling my github blog
@@ -43,6 +42,7 @@ Here are some ideas to get you started:
 
 # 😄 Pronouns: 🙋‍♀️🙋‍♀️🙋‍♀️
 ``` 
+<!--~~Detection of Mortality Medical Markers for ICU Pneumonia Patients by Time-Series Feature Importance of LSTM Model~~-->
 <br>
 
 [Mimic tutorial for USW DSML interns🤗🤗🤗](https://gayounkoh.notion.site/MIMIC-Tutorial-af0aff5a46d1460baa0f85f961d98bd2)
