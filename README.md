@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 +                                Data Science
 
 # 👯 I’m currently doing
-+                                Time-Series Mortality Marker Identification Based on Data Simulation on LSTM Model in Application to Pneumonia Patients in Intensive Care Unit
++                                Pattern-Specific Time-Series Mortality Marker Identification Based on Data Simulation on LSTM Model in Application to Pneumonia Patients in Intensive Care Unit
 
 # 🤔 I’m looking for help with
 +                                styling my github blog
@@ -42,6 +42,9 @@ Here are some ideas to get you started:
 
 # 😄 Pronouns: 🙋‍♀️🙋‍♀️🙋‍♀️
 ``` 
+<!--현재 논문 제목 : 패턴을 찾았다는 것에 초점-->
+<!--~~Time-Series Mortality Marker Identification Based on Data Simulation on LSTM Model in Application to Pneumonia Patients in Intensive Care Unit~~-->
+<br>
 <!--~~Detection of Mortality Medical Markers for ICU Pneumonia Patients by Time-Series Feature Importance of LSTM Model~~-->
 <br>
 
